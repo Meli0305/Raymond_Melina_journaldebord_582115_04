@@ -1,9 +1,6 @@
 # Cours 1
-## Créer mon journal de bord
-[Ce tutoriel](https://guides.github.com/activities/hello-world/) vous aidera à bien comprendre les bases de GitHub, n'hésitez pas à le consulter!
 
 ## Pourquoi j'ai choisi l'intégration multimédia
 Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous a fait choisir ce programme. Quel cours vous motive en particulier? Est-ce que vous avez déjà en tête un métier que vous aimeriez faire grâce à la formation? 
 
-[Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
-
+J'ai choisis la technique d'intégration en multimédia, parce que je voulais un métier qui me permettera d'utiliser mon imagination et ma créativité. Toute ma famille et moi sommes assez créatifs. Ma mère fait du réalisme en dessin, mon père fait de la photographie et du montage vidéo et ma soeur fait du 3D, du dessin et est réalisatrice de jeux video. Et donc, pour suivre le groupe, j'ai voulue faire quelques choses d'artistique aussi. Mais, bien sur avant tout je le fais pour moi et non pour personnes d'autres. J'avais commencer par faire une technique en travail social, parce que je voulais aider les gens. Ce qui ma fait revenir sur mon choix était que c'est un métier très dur sur le moral. Il ne faut pas trop sans mettre sur les épaules pour les problème des autres. J'ai tendance a faire cela. Je me suis donc dit que je pourrais faire un métier que jaime vraiment et avoir du plaisir le reste de mon parcours professionel. Et que dans mon temps libre j'aide les gens comme bénévolat.
