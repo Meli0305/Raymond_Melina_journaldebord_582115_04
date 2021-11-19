@@ -6,7 +6,7 @@ Durée: 5 à 7 minutes
 Starbound 
 
 ### Carte heuristique
-Joindre la carte heuristique du projet. 
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/89647786/141471952-61e07adf-b9ef-4ecb-a4ac-accca8e137eb.png) 
 
 ### Technologies
 2D et codage (principalement)
