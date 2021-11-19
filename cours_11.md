@@ -3,13 +3,13 @@
 Durée: 5 à 7 minutes
 
 ### Présentation
-Parlez du projet multimédia sélectionné. 
+Starbound 
 
 ### Carte heuristique
 Joindre la carte heuristique du projet. 
 
 ### Technologies
-Nommer les technologies reliées au projet. 
+2D et codage (principalement)
 
 ### Analyse critique
-Faites une analyse critique du projet. En quoi est-il pertinent? Sur quels aspects pourrait-il être amélioré? Quels sont ses points forts? En quoi ce projet est-il original? 
+Le jeux est très pertinent en partie à cause de l'histoire quelle nous présente. Le jeux pourrait être améliorer sur l'aspects de la répétion, comme par exemple les armes dans le jeux ont presque toutes les mêmes models. Les point fort sont le temps du jeux. Le jeux peut être jouer pour plusieurs heures (60h et plus). Il est original car il n«.y a pas de plus de jeux dans ce style 2D/survie.
