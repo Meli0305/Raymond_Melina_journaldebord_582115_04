@@ -12,10 +12,10 @@ Notre projet invite les jeunes dans monde imaginaire partout sur la terre. Ils v
 L'utilisateur rentrerais dans le premiers biodomes et pourrait cliquer sur des fleurs pour apprendre sur elles et le guide se chargerait de faire déplacer l'utilisateur de biodomes en biodomes. 
 
 ### Moodboard
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+![image](https://user-images.githubusercontent.com/89647786/145588884-e470e805-e8d8-4e8e-960d-27c412aedfa8.png) 
 
 ### Technologies
 Modélisation 3D, Animations 3D, Textures 3D, Conception Sonores, Recherches, Voice act 
 
 ### Étapes de réalisation
-Quelles sont les étapes nécessaires à la réalisation de votre projet? Essayez de placer ces étapes dans un échéancier. 
+Modélisation 3D, Animation 3D, textures, Conception sonore, Voice act, biologistes, Gestionnaire des projets.
